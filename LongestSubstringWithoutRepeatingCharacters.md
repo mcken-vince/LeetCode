@@ -30,3 +30,4 @@ const lengthOfLongestSubstring = (s) => {
     return longestSubstring;
 };
 ```
+// I think a better solution would have to check and compare indices of each unique character. Would have a better Big-O rank 
